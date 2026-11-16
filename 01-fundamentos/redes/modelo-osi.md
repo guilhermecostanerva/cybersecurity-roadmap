@@ -9,7 +9,7 @@ camadas.
 ## 2. As sete camadas
 
 | Camada | Nome |
-|---------------|
+|---|---|
 | 7 | Aplicação |
 | 6 | Apresentação |
 | 5 | Sessão |
